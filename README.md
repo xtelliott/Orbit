@@ -11,3 +11,8 @@ Used to get into the shuttle and beat the game. All three are needed to unlock t
 Accessible once the door is unlocked and stops the time trial once walked over.
 ### Battery
 Gives a boost of energy by permamently increasing movement speed to cut time off of your run.
+
+## Demo
+https://github.com/user-attachments/assets/1ad81b0e-684b-4b11-b1e6-a6e75192400f
+
+
