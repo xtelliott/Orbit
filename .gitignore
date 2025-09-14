@@ -1,3 +1,6 @@
+#pdn files
+*.pdn
+
 # Compiled class file
 *.class
 
